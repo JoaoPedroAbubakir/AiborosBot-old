@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LongestNightApplication {
+public class AiborosBotApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LongestNightApplication.class, args);
+		SpringApplication.run(AiborosBotApplication.class, args);
 	}
 
 }

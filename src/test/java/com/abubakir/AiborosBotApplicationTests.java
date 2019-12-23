@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest(classes = {
 		Config.class
 })
-class LongestNightApplicationTests {
+class AiborosBotApplicationTests {
 
 	@Test
 	void contextLoads() {
