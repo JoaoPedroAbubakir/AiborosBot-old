@@ -8,6 +8,9 @@ I'm using it to learn and test ou new coding patterns.
 To run this bot, simply set an Environment Variable called API_KEY and set
 the value to your bot API Key.
 
+The Bot is not set on webhook, instead it pulls updates every 10 seconds. You can change this
+on the UpdatePollingScheduler class.
+
 If you are working behind a proxy with/without authentication
 You need to set these to you JVM args
 
