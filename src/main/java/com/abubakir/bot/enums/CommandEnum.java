@@ -9,7 +9,6 @@ public enum CommandEnum {
 	ROLL("/roll"),
 	TOAD("/toad"),
 	PAU("/pau"),
-	CONTATINHO("/contatinho"),
 	TESTE("/teste");
 
 	private String commandString;
