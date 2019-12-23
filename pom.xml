@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.abubakir</groupId>
-    <artifactId>longest-night</artifactId>
+    <artifactId>aiboros-bot</artifactId>
     <version>2.0.1-SNAPSHOT</version>
-    <name>Longest Night</name>
+    <name>Aiboros Bot</name>
     <description>New version of bot</description>
 
     <properties>
